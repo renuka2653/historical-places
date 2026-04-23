@@ -1,0 +1,36 @@
+com.example.historicalplacesuserapp-pngs-0 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\build\generated\res\pngs\debug
+com.example.historicalplacesuserapp-resValues-1 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\build\generated\res\resValues\debug
+com.example.historicalplacesuserapp-packageDebugResources-2 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.historicalplacesuserapp-packageDebugResources-3 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.historicalplacesuserapp-merged_res-4 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\build\intermediates\merged_res\debug
+com.example.historicalplacesuserapp-debug-5 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\src\debug\res
+com.example.historicalplacesuserapp-main-6 A:\historicalplaces\historical places\HistoricalPlacesUserApp\app\src\main\res
+com.example.historicalplacesuserapp-fragment-1.3.6-7 C:\Users\HP\.gradle\caches\8.9\transforms\08ccfc9a2ed02562d4638bcf27590ac0\transformed\fragment-1.3.6\res
+com.example.historicalplacesuserapp-jetified-core-ktx-1.9.0-8 C:\Users\HP\.gradle\caches\8.9\transforms\0c2d7fde3cfc15f9987d8f94a35f35f5\transformed\jetified-core-ktx-1.9.0\res
+com.example.historicalplacesuserapp-lifecycle-runtime-2.5.1-9 C:\Users\HP\.gradle\caches\8.9\transforms\13b1030f7f83bc72fec0aff469d0eb8a\transformed\lifecycle-runtime-2.5.1\res
+com.example.historicalplacesuserapp-appcompat-1.6.1-10 C:\Users\HP\.gradle\caches\8.9\transforms\1be23905d6941c73cddf3dbdd6ae5457\transformed\appcompat-1.6.1\res
+com.example.historicalplacesuserapp-cardview-1.0.0-11 C:\Users\HP\.gradle\caches\8.9\transforms\224cb338d3c5f51cc6f3cf595a27a88b\transformed\cardview-1.0.0\res
+com.example.historicalplacesuserapp-jetified-emoji2-1.2.0-12 C:\Users\HP\.gradle\caches\8.9\transforms\2bb692b386869c615bc37cf9e6b8efc2\transformed\jetified-emoji2-1.2.0\res
+com.example.historicalplacesuserapp-jetified-dexter-5.0.0-13 C:\Users\HP\.gradle\caches\8.9\transforms\35041d763b3f8473dd90c5899c8d92f0\transformed\jetified-dexter-5.0.0\res
+com.example.historicalplacesuserapp-jetified-startup-runtime-1.1.1-14 C:\Users\HP\.gradle\caches\8.9\transforms\3d7e15c4d2f3299bed7768d772dd92e8\transformed\jetified-startup-runtime-1.1.1\res
+com.example.historicalplacesuserapp-jetified-emoji2-views-helper-1.2.0-15 C:\Users\HP\.gradle\caches\8.9\transforms\40f2f87f9b3f7a8531a1d30629213824\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.historicalplacesuserapp-coordinatorlayout-1.1.0-16 C:\Users\HP\.gradle\caches\8.9\transforms\4c6ac01da394ddd8842843341bfdcf31\transformed\coordinatorlayout-1.1.0\res
+com.example.historicalplacesuserapp-core-1.9.0-17 C:\Users\HP\.gradle\caches\8.9\transforms\500196f98bdd825d75df01b75154b431\transformed\core-1.9.0\res
+com.example.historicalplacesuserapp-jetified-savedstate-1.2.0-18 C:\Users\HP\.gradle\caches\8.9\transforms\5c97009abb3a626d1195668eb6aa47fb\transformed\jetified-savedstate-1.2.0\res
+com.example.historicalplacesuserapp-jetified-play-services-maps-16.1.0-19 C:\Users\HP\.gradle\caches\8.9\transforms\66542e0b721dcecaa3c2ec84bb87e9ee\transformed\jetified-play-services-maps-16.1.0\res
+com.example.historicalplacesuserapp-constraintlayout-2.1.4-20 C:\Users\HP\.gradle\caches\8.9\transforms\7476acb09f5751ceecef62ce4d138b68\transformed\constraintlayout-2.1.4\res
+com.example.historicalplacesuserapp-jetified-activity-1.6.0-21 C:\Users\HP\.gradle\caches\8.9\transforms\99780284fc4d30c1199d69b3d549be13\transformed\jetified-activity-1.6.0\res
+com.example.historicalplacesuserapp-jetified-annotation-experimental-1.3.0-22 C:\Users\HP\.gradle\caches\8.9\transforms\a7a891afd0874f7b59d7875d35cf7426\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.historicalplacesuserapp-jetified-appcompat-resources-1.6.1-23 C:\Users\HP\.gradle\caches\8.9\transforms\bcbf3db8f78d576960500d88b7708496\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.historicalplacesuserapp-material-1.8.0-24 C:\Users\HP\.gradle\caches\8.9\transforms\c9af1880f9348b752337361491cfa804\transformed\material-1.8.0\res
+com.example.historicalplacesuserapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-25 C:\Users\HP\.gradle\caches\8.9\transforms\cf0dbe2606e3fc4343010d087b3112cf\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.historicalplacesuserapp-media-1.0.0-26 C:\Users\HP\.gradle\caches\8.9\transforms\d4d7662a28b187159b9ac64dca13a2b2\transformed\media-1.0.0\res
+com.example.historicalplacesuserapp-transition-1.2.0-27 C:\Users\HP\.gradle\caches\8.9\transforms\d5f329b0292f8a12a79b35be7e398048\transformed\transition-1.2.0\res
+com.example.historicalplacesuserapp-jetified-viewpager2-1.0.0-28 C:\Users\HP\.gradle\caches\8.9\transforms\dc4cdf35959b1d7c5ea8be7c4de5729b\transformed\jetified-viewpager2-1.0.0\res
+com.example.historicalplacesuserapp-lifecycle-viewmodel-2.5.1-29 C:\Users\HP\.gradle\caches\8.9\transforms\df3c600cea8b26e9dd6f6617b6b884de\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.historicalplacesuserapp-jetified-lifecycle-process-2.4.1-30 C:\Users\HP\.gradle\caches\8.9\transforms\e149b07b01e5daf890f645e6a66d351c\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.historicalplacesuserapp-jetified-play-services-base-16.0.1-31 C:\Users\HP\.gradle\caches\8.9\transforms\e238b2b07b711c1192a4fa3929600593\transformed\jetified-play-services-base-16.0.1\res
+com.example.historicalplacesuserapp-lifecycle-livedata-core-2.5.1-32 C:\Users\HP\.gradle\caches\8.9\transforms\e571a4a60f015a2db0f0f7221778d7f6\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.historicalplacesuserapp-drawerlayout-1.1.1-33 C:\Users\HP\.gradle\caches\8.9\transforms\ef04fd9a5b8fe116d8cf3f7920a09027\transformed\drawerlayout-1.1.1\res
+com.example.historicalplacesuserapp-jetified-play-services-basement-16.0.1-34 C:\Users\HP\.gradle\caches\8.9\transforms\f06df91d6da05d99bb967f4c318036d9\transformed\jetified-play-services-basement-16.0.1\res
+com.example.historicalplacesuserapp-recyclerview-1.1.0-35 C:\Users\HP\.gradle\caches\8.9\transforms\fab540ea1dd0131b5bad36431a1106a1\transformed\recyclerview-1.1.0\res
